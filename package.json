@@ -1,0 +1,10 @@
+{
+    "devDependencies": {
+        "gulp": "latest",
+        "gulp-template": "latest",
+        "gulp-server-livereload": "latest",
+        "gulp-sass": "latest",
+        "gulp-minify-css": "latest",
+        "gulp-util": "latest"
+    }
+}
