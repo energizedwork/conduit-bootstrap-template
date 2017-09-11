@@ -1,6 +1,7 @@
-# Conduit's Bootstrap [(see it live on GH pages)](http://gothinkster.github.io/conduit/)
+# Dashboards Bootstrap theme
 
-1. Clone repo
-2. git submodule update --init --recursive
-3. npm install
-4. Run `gulp`
+1. ```$ git clone git@github.com:energizedwork/conduit-bootstrap-template.git```
+2. ```$ git submodule update --init --recursive```
+3. ```$ npm install```
+4. ```$ gulp```
+5. Compiled theme is on app/css/style.css
