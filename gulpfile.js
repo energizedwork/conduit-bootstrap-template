@@ -43,8 +43,10 @@ gulp.task('default',function() {
   gulp.watch('pages/**/*.html',['templates']);
   gulp.src('./app')
     .pipe(server({
-      livereload: true,
+      // livereload: true,
+      // livereload: {port: 35730},
       directoryListing: false,
-      open: true
+      open: true,
+      port: 8001
     }));
 });
